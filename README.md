@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=locked666" alt=" locked666" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo. **Python, Cyber Security, JavaScript, SQL e Machine Learning.**
+- 🌱 Atualmente estou me aprimorando em: **ReactJS, React Native, Bun, Node, ElisyaJS. **
 
-- 💬 Pergunte-me **Python e Cyber Security.**
+- 💬 Pergunte-me **Python e Cyber Security, SQL e Machine Learning.**
 
 - 📫 Você me acha através **juliosales509@gmail.com ou juliosalestecinfo@gmail.com**
 
